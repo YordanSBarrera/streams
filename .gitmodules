@@ -4,3 +4,6 @@
 [submodule "api"]
 	path = api
 	url = https://github.com/YordanSBarrera/api.git
+[submodule "rtmpserver"]
+	path = rtmpserver
+	url = https://github.com/YordanSBarrera/rtmpserver.git
